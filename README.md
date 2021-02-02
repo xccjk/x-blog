@@ -15,6 +15,7 @@
 - [webpack模块热更新](https://github.com/xccjk/x-blog/issues/14)
 - [webpack文本文件及其构建过程的优化](https://github.com/xccjk/x-blog/issues/8)
 - [怎么打造适合前端团队的代码规范](https://github.com/xccjk/x-blog/issues/27)
+- [基于CI/CD快速部署项目](https://github.com/xccjk/x-blog/blob/master/docs/lg-%E5%89%8D%E7%AB%AF%E9%AB%98%E6%89%8B%E8%BF%9B%E9%98%B6/%E5%9F%BA%E4%BA%8ECI/CD%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE.md)
 
 ## npm
 
@@ -37,6 +38,8 @@
 - [javascript在浏览器中的执行过程](https://github.com/xccjk/x-blog/issues/17)
 - [浏览器中的进程与线程](https://github.com/xccjk/x-blog/issues/18)
 - [HTTP协议的那些事](https://github.com/xccjk/x-blog/issues/19)
+- [图解HTTP01-了解 web 及网络基础](https://github.com/xccjk/x-blog/blob/master/docs/%E5%9B%BE%E8%A7%A3HTTP/01-%E4%BA%86%E8%A7%A3web%E5%8F%8A%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
+
 
 ## 求职相关
 
