@@ -1,5 +1,7 @@
 # 学习笔记
 
+如果对你有用，请你点下小星星，谢谢
+
 ## react
 
 - [useCallback的常规使用方式](https://github.com/xccjk/x-blog/issues/12)
