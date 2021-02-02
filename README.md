@@ -8,6 +8,18 @@
 - [react 高阶函数的常见使用方式](https://github.com/xccjk/x-blog/issues/13)
 - [react hooks逻辑抽取及使用场景](https://github.com/xccjk/x-blog/issues/15)
 - [visibilityChange api的使用场景及在react中的使用](https://github.com/xccjk/x-blog/issues/20)
+- [react中dom的渲染流程](https://github.com/xccjk/x-blog/issues/33)
+- [react hooks 实现一个计时器](https://github.com/xccjk/x-blog/issues/35)
+
+## react native
+
+- [react native中使用echarts](https://github.com/xccjk/x-blog/issues/40)
+- [react native中一次错误排查 Error:Error: Duplicate resources](https://github.com/xccjk/x-blog/issues/38)
+- [react native错误排查-TypeError: window.deltaUrlToBlobUrl is not a function](https://github.com/xccjk/x-blog/issues/39)
+
+## 小程序
+
+- [微信小程序中通过腾讯地图进行逆地址解析报错message: "请求来源未被授权, 此次请求来源域名：servicewechat.com"](https://github.com/xccjk/x-blog/issues/37)
 
 ## 工程化
 
@@ -50,11 +62,13 @@
 ## 遇到的坑
 
 - [微信H5出现重复授权窗口跳转问题](https://github.com/xccjk/x-blog/issues/23)
+- [H5开发中遇到的一些常见问题](https://github.com/xccjk/x-blog/issues/36)
 
 ## 其他
 
 - [github中的图片不显示](https://github.com/xccjk/x-blog/issues/22)
 - [git同时在github与gitlab中使用](https://github.com/xccjk/x-blog/issues/21)
+- [git查看commit提交的内容](https://github.com/xccjk/x-blog/issues/34)
 
 
 
