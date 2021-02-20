@@ -36,6 +36,10 @@
 - [怎么发布一个属于自己的npm包](https://github.com/xccjk/x-blog/issues/24)
 - [dependencies vs devDependencies](https://github.com/xccjk/x-blog/issues/25)
 
+## flutter
+
+- [mac fluttet环境搭建](https://github.com/xccjk/x-blog/blob/master/book/flutter/flutter%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+
 ## 读书笔记
 
 - [HTML标签在使用中，如何使用性能最好](https://github.com/xccjk/x-blog/issues/1)
