@@ -26,7 +26,7 @@ cd ~/development
 unzip ~/Downloads/flutter_macos_v0.5.1-beta.zip
 ```
 
-<img src='./img/03.jpg' width='500' />
+<image src="./img/03.jpg" width="500" />
   
 4. 将flutter添加到path中
 
