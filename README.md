@@ -1,6 +1,6 @@
 # 学习笔记
 
-如果对你有用，请你点下小星星，谢谢
+如果对你有用，欢迎star一下，谢谢
 
 ## react
 
@@ -39,6 +39,7 @@
 ## flutter
 
 - [mac fluttet环境搭建](https://github.com/xccjk/x-blog/blob/master/book/flutter/flutter%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+- [编写第一个flutter应用](https://github.com/xccjk/x-blog/blob/master/book/flutter/02-%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAflutter%E5%BA%94%E7%94%A8.md)
 
 ## 读书笔记
 
