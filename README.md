@@ -38,8 +38,9 @@
 
 ## flutter
 
-- [mac fluttet环境搭建](https://github.com/xccjk/x-blog/blob/master/book/flutter/flutter%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
-- [编写第一个flutter应用](https://github.com/xccjk/x-blog/blob/master/book/flutter/02-%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAflutter%E5%BA%94%E7%94%A8.md)
+- [01-fluttet环境搭建](https://github.com/xccjk/x-blog/issues/44)
+- [02-编写第一个flutter应用](https://github.com/xccjk/x-blog/issues/45)
+- [flutter run报错No supported devices connected](https://github.com/xccjk/x-blog/issues/46)
 
 ## 读书笔记
 
