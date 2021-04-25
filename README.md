@@ -6,6 +6,14 @@
 
 - [前端基础知识梳理](https://xccjk.github.io/x-docs/#/)
 
+## 浅谈JavaScript
+
+- [浅谈JavaScript事件捕获事件冒泡与事件委托](https://github.com/xccjk/x-blog/issues/53)
+- [浅谈JavaScript作用域](https://github.com/xccjk/x-blog/issues/54)
+- [浅谈JavaScript中this](https://github.com/xccjk/x-blog/issues/50)
+- [浅谈JavaScript闭包](https://github.com/xccjk/x-blog/issues/55)
+- [浅谈JavaScript模块化](https://github.com/xccjk/x-blog/issues/52)
+
 ## react
 
 - [useCallback的常规使用方式](https://github.com/xccjk/x-blog/issues/12)
