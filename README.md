@@ -22,6 +22,7 @@
 - [visibilityChange api的使用场景及在react中的使用](https://github.com/xccjk/x-blog/issues/20)
 - [react中dom的渲染流程](https://github.com/xccjk/x-blog/issues/33)
 - [react hooks 实现一个计时器](https://github.com/xccjk/x-blog/issues/35)
+- [react中css作用域问题探究](https://github.com/xccjk/x-blog/issues/62)
 
 ## react native
 
@@ -32,14 +33,18 @@
 ## 小程序
 
 - [微信小程序中通过腾讯地图进行逆地址解析报错message: "请求来源未被授权, 此次请求来源域名：servicewechat.com"](https://github.com/xccjk/x-blog/issues/37)
+- [微信小程序-基于node实现自动打包上传代码](https://github.com/xccjk/x-blog/issues/65)
 
 ## 工程化
 
 - [webpack5升级过程遇到的一些坑](https://github.com/xccjk/x-blog/issues/26)
 - [webpack模块热更新](https://github.com/xccjk/x-blog/issues/14)
 - [webpack文本文件及其构建过程的优化](https://github.com/xccjk/x-blog/issues/8)
+- [webpack常用开发体验/分析相关工具](https://github.com/xccjk/x-blog/issues/63)
 - [怎么打造适合前端团队的代码规范](https://github.com/xccjk/x-blog/issues/27)
 - [基于CI/CD快速部署项目](https://github.com/xccjk/x-blog/blob/master/docs/lg-%E5%89%8D%E7%AB%AF%E9%AB%98%E6%89%8B%E8%BF%9B%E9%98%B6/%E5%9F%BA%E4%BA%8ECI/CD%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE.md)
+- [Jenkins接入钉钉机器人](https://github.com/xccjk/x-blog/issues/61)
+- [前端项目部署流程](https://github.com/xccjk/x-blog/issues/60)
 
 ## npm
 
