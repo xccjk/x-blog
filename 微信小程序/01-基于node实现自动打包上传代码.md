@@ -86,7 +86,6 @@ child.exec(
     }
   }
 );
-
 ```
 
 ```javascript
@@ -139,7 +138,6 @@ const config = {
 await $`npm run build`;
 
 await $`${config.path} upload --project ${config.projectPath} -v ${config.version} -d ${config.desc}`;
-
 ```
 
 ```javascript
