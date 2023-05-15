@@ -55,7 +55,7 @@ export default ModalCreater;
 <Form.Item
   label="状态"
   name="status"
-	valuePropName="checked"
+  valuePropName="checked"
 >
   <Switch />
 </Form.Item>
